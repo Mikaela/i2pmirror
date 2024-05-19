@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: mini
 permalink: /ir/i2pwiki.html
 sitemap: false
 ---

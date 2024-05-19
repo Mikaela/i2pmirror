@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: mini
 permalink: /ir/inr.html
 sitemap: false
 ---
