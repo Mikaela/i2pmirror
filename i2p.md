@@ -1,6 +1,6 @@
 ---
 layout: mini
-permalink: /ir/identiguy.html
+permalink: /ir/i2p.html
 sitemap: false
 ---
 
