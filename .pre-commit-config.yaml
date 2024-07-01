@@ -20,7 +20,7 @@ repos:
         exclude_types: [markdown]
 
   - repo: https://github.com/rbubley/mirrors-prettier
-    rev: "v3.2.5"
+    rev: "v3.3.2"
     hooks:
       - id: prettier
 
